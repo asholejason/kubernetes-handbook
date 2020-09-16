@@ -120,7 +120,7 @@ Secret 是用来保存和传递密码、密钥、认证凭证这些敏感信息�
 
 ### 命名空间（Namespace）
 
-命名空间为 Kubernetes 集群提供虚拟的隔离作用，Kubernetes 集群初始有两个命名空间，分别是默认命名空间 default 和系统命名空间 kube-system，除此以外，管理员可以可以创建新的命名空间满足需要。
+命名空间为 Kubernetes 集群提供虚拟的隔离作用，Kubernetes 集群初始有两个命名空间，分别是默认命名空间 default 和系统命名空间 kube-system，除此以外，管理员可以创建新的命名空间满足需要。
 
 ### RBAC 访问授权
 
